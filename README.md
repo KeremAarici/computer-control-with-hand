@@ -25,3 +25,8 @@ pip install opencv-python pyautogiu mediapipe
 The Steps Of Running This Project
 1- Install the libraries. (If you have certain amount of disk capacity I recomend you to use a virtual enviroment)
 2- after you install run the project from cmd or your own compiler.
+-------
+
+Special Note From Developer:
+I want you to implement your ideas in to this project. For now this program is only able to
+crawl, make it fly.
